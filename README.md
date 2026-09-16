@@ -1,8 +1,8 @@
-# 📐 Blueprint
+# 📐 BuildCore
 > *The simplest way to bring architectural projects to life.*
 
 ## Sobre o Projeto
-O **Blueprint** é uma plataforma digital voltada para o universo da arquitetura. O projeto foi desenvolvido para conectar profissionais, clientes e fornecedores, oferecendo um espaço limpo e intuitivo para o gerenciamento e exibição de projetos arquitetônicos.
+O **BuildCore** é uma plataforma digital voltada para o universo da arquitetura. O projeto foi desenvolvido para conectar profissionais, clientes e fornecedores, oferecendo um espaço limpo e intuitivo para o gerenciamento e exibição de projetos arquitetônicos.
 
 ## Funcionalidades
 * Vitrine de Projetos: Catálogo organizado com portfólios, plantas e renders em alta qualidade.
